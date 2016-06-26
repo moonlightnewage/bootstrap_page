@@ -1,0 +1,8 @@
+.centered {
+    text-align: center;
+}
+@media only screen and (max-width: 992px) {
+    .xs-sm-centered {
+        text-align: center;
+    }
+}
